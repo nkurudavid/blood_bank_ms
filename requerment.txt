@@ -1,0 +1,9 @@
+Django==*
+django-filter==*
+django-mapbox-location-field==*
+djangorestframework==*
+Markdown==*
+Pillow==*
+psycopg2-binary==*
+pytz==2019.3
+sqlparse==*
